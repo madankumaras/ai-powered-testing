@@ -4,3 +4,11 @@ test-results/
 .env
 config/*.env
 !config/qa.env
+
+# Locks (keep only one if your team standardizes)
+package-lock.json
+yarn.lock
+
+# Test history and reports
+tests/test-history.json
+tests/smart-report.html
