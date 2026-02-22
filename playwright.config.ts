@@ -6,7 +6,7 @@ import { LogLevel } from '@slack/web-api';
  * Read environment variables from file.
  * We will load them conditionally or rely on cross-env if needed.
  */
-// require('dotenv').config({ path: path.resolve(__dirname, 'config', 'qa.env') });
+require('dotenv').config();
 
 import { generateCustomLayout } from './src/utils/slackCustomLayout';
 

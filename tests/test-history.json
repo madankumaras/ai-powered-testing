@@ -15,6 +15,27 @@
         "timestamp": "2026-02-22T10:49:16.902Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2123,
+        "timestamp": "2026-02-22T10:57:02.081Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1873,
+        "timestamp": "2026-02-22T10:57:26.547Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2619,
+        "timestamp": "2026-02-22T11:04:57.399Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/saucedemo.spec.ts::Standard User - Full E2E Checkout Flow": [
@@ -29,6 +50,27 @@
         "passed": true,
         "duration": 3297,
         "timestamp": "2026-02-22T10:49:16.902Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2363,
+        "timestamp": "2026-02-22T10:57:02.081Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2443,
+        "timestamp": "2026-02-22T10:57:26.547Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2585,
+        "timestamp": "2026-02-22T11:04:57.399Z",
         "skipped": false,
         "retry": 0
       }
@@ -47,6 +89,27 @@
         "timestamp": "2026-02-22T10:49:16.902Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1207,
+        "timestamp": "2026-02-22T10:57:02.081Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1109,
+        "timestamp": "2026-02-22T10:57:26.547Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1234,
+        "timestamp": "2026-02-22T11:04:57.399Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/saucedemo.spec.ts::Error User - Verify specific error handling / breakage": [
@@ -61,6 +124,27 @@
         "passed": true,
         "duration": 1230,
         "timestamp": "2026-02-22T10:49:16.902Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1222,
+        "timestamp": "2026-02-22T10:57:02.081Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1269,
+        "timestamp": "2026-02-22T10:57:26.547Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1240,
+        "timestamp": "2026-02-22T11:04:57.399Z",
         "skipped": false,
         "retry": 0
       }
@@ -79,6 +163,27 @@
         "timestamp": "2026-02-22T10:49:16.902Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 4226,
+        "timestamp": "2026-02-22T10:57:02.081Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 4132,
+        "timestamp": "2026-02-22T10:57:26.547Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 4149,
+        "timestamp": "2026-02-22T11:04:57.399Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/saucedemo.spec.ts::Performance Glitch User - Verify slow load time": [
@@ -95,6 +200,27 @@
         "timestamp": "2026-02-22T10:49:16.902Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 7372,
+        "timestamp": "2026-02-22T10:57:02.081Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 6784,
+        "timestamp": "2026-02-22T10:57:26.547Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 7038,
+        "timestamp": "2026-02-22T11:04:57.399Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/failing.spec.ts::This test will fail on purpose - missing element": [
@@ -104,6 +230,13 @@
         "timestamp": "2026-02-22T10:47:31.221Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 2961,
+        "timestamp": "2026-02-22T11:08:13.799Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/failing.spec.ts::This test will fail on purpose - incorrect title": [
@@ -111,6 +244,13 @@
         "passed": false,
         "duration": 6117,
         "timestamp": "2026-02-22T10:47:31.221Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6054,
+        "timestamp": "2026-02-22T11:08:13.799Z",
         "skipped": false,
         "retry": 0
       }
@@ -152,6 +292,54 @@
       "slow": 1,
       "duration": 9089,
       "passRate": 100
+    },
+    {
+      "runId": "run-1771757812386",
+      "timestamp": "2026-02-22T10:56:52.386Z",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "skipped": 0,
+      "flaky": 0,
+      "slow": 0,
+      "duration": 9695,
+      "passRate": 100
+    },
+    {
+      "runId": "run-1771757838194",
+      "timestamp": "2026-02-22T10:57:18.194Z",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "skipped": 0,
+      "flaky": 0,
+      "slow": 0,
+      "duration": 8352,
+      "passRate": 100
+    },
+    {
+      "runId": "run-1771758287851",
+      "timestamp": "2026-02-22T11:04:47.851Z",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "skipped": 0,
+      "flaky": 0,
+      "slow": 1,
+      "duration": 9547,
+      "passRate": 100
+    },
+    {
+      "runId": "run-1771758485717",
+      "timestamp": "2026-02-22T11:08:05.717Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8082,
+      "passRate": 0
     }
   ],
   "runFiles": {}
