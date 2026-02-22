@@ -136,6 +136,7 @@ _(You will see the AI root-cause analysis dynamically render in the terminal and
 
 ---
 
-### 👨‍💻 About the Author
+### 👨‍💻 Author
 
-Built by a passionate Quality Engineering specialist focused on shifting QA to the left by integrating Generative AI into modern UI automation frameworks. Always seeking to build out-of-the-box infrastructure that elevates software delivery pipelines to the next level.
+**Madan Kumar AS**  
+A passionate Quality Engineering specialist focused on shifting QA to the left by integrating Generative AI into modern UI automation frameworks. Always seeking to build out-of-the-box infrastructure that elevates software delivery pipelines to the next level.
