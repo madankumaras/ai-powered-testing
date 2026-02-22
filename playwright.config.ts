@@ -43,6 +43,7 @@ export default defineConfig({
                 slackLogLevel: LogLevel.ERROR,
             },
         ],
+        ['./src/utils/ai/ai-TestFailure-Analyzer/aiReporter.ts'],
     ],
     /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
     use: {

@@ -3,7 +3,6 @@ playwright-report/
 test-results/
 .env
 config/*.env
-config/qa.env
 
 # Locks (keep only one if your team standardizes)
 package-lock.json
@@ -13,3 +12,4 @@ yarn.lock
 tests/test-history.json
 tests/smart-report.html
 config/qa.env
+reports/

@@ -36,6 +36,13 @@
         "timestamp": "2026-02-22T11:04:57.399Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2160,
+        "timestamp": "2026-02-22T11:32:51.368Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/saucedemo.spec.ts::Standard User - Full E2E Checkout Flow": [
@@ -71,6 +78,13 @@
         "passed": true,
         "duration": 2585,
         "timestamp": "2026-02-22T11:04:57.399Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 2599,
+        "timestamp": "2026-02-22T11:32:51.368Z",
         "skipped": false,
         "retry": 0
       }
@@ -110,6 +124,13 @@
         "timestamp": "2026-02-22T11:04:57.399Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1126,
+        "timestamp": "2026-02-22T11:32:51.368Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/saucedemo.spec.ts::Error User - Verify specific error handling / breakage": [
@@ -145,6 +166,13 @@
         "passed": true,
         "duration": 1240,
         "timestamp": "2026-02-22T11:04:57.399Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 1283,
+        "timestamp": "2026-02-22T11:32:51.368Z",
         "skipped": false,
         "retry": 0
       }
@@ -184,6 +212,13 @@
         "timestamp": "2026-02-22T11:04:57.399Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 4061,
+        "timestamp": "2026-02-22T11:32:51.368Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/saucedemo.spec.ts::Performance Glitch User - Verify slow load time": [
@@ -221,6 +256,13 @@
         "timestamp": "2026-02-22T11:04:57.399Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": true,
+        "duration": 6876,
+        "timestamp": "2026-02-22T11:32:51.368Z",
+        "skipped": false,
+        "retry": 0
       }
     ],
     "[Google Chrome] e2e/failing.spec.ts::This test will fail on purpose - missing element": [
@@ -235,6 +277,48 @@
         "passed": false,
         "duration": 2961,
         "timestamp": "2026-02-22T11:08:13.799Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 3262,
+        "timestamp": "2026-02-22T12:10:37.917Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 3008,
+        "timestamp": "2026-02-22T12:13:22.532Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 3222,
+        "timestamp": "2026-02-22T12:22:27.122Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 3259,
+        "timestamp": "2026-02-22T12:28:10.617Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 3026,
+        "timestamp": "2026-02-22T12:30:21.590Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 3246,
+        "timestamp": "2026-02-22T12:32:55.070Z",
         "skipped": false,
         "retry": 0
       }
@@ -253,58 +337,52 @@
         "timestamp": "2026-02-22T11:08:13.799Z",
         "skipped": false,
         "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6217,
+        "timestamp": "2026-02-22T12:10:37.917Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6360,
+        "timestamp": "2026-02-22T12:13:22.532Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6102,
+        "timestamp": "2026-02-22T12:22:27.122Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6172,
+        "timestamp": "2026-02-22T12:28:10.617Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6414,
+        "timestamp": "2026-02-22T12:30:21.590Z",
+        "skipped": false,
+        "retry": 0
+      },
+      {
+        "passed": false,
+        "duration": 6207,
+        "timestamp": "2026-02-22T12:32:55.070Z",
+        "skipped": false,
+        "retry": 0
       }
     ]
   },
   "summaries": [
-    {
-      "runId": "run-1771756973747",
-      "timestamp": "2026-02-22T10:42:53.747Z",
-      "total": 6,
-      "passed": 6,
-      "failed": 0,
-      "skipped": 0,
-      "flaky": 0,
-      "slow": 0,
-      "duration": 9133,
-      "passRate": 100
-    },
-    {
-      "runId": "run-1771757243114",
-      "timestamp": "2026-02-22T10:47:23.114Z",
-      "total": 2,
-      "passed": 0,
-      "failed": 2,
-      "skipped": 0,
-      "flaky": 0,
-      "slow": 0,
-      "duration": 8108,
-      "passRate": 0
-    },
-    {
-      "runId": "run-1771757347813",
-      "timestamp": "2026-02-22T10:49:07.813Z",
-      "total": 6,
-      "passed": 6,
-      "failed": 0,
-      "skipped": 0,
-      "flaky": 0,
-      "slow": 1,
-      "duration": 9089,
-      "passRate": 100
-    },
-    {
-      "runId": "run-1771757812386",
-      "timestamp": "2026-02-22T10:56:52.386Z",
-      "total": 6,
-      "passed": 6,
-      "failed": 0,
-      "skipped": 0,
-      "flaky": 0,
-      "slow": 0,
-      "duration": 9695,
-      "passRate": 100
-    },
     {
       "runId": "run-1771757838194",
       "timestamp": "2026-02-22T10:57:18.194Z",
@@ -339,6 +417,90 @@
       "flaky": 2,
       "slow": 0,
       "duration": 8082,
+      "passRate": 0
+    },
+    {
+      "runId": "run-1771759961976",
+      "timestamp": "2026-02-22T11:32:41.976Z",
+      "total": 6,
+      "passed": 6,
+      "failed": 0,
+      "skipped": 0,
+      "flaky": 0,
+      "slow": 0,
+      "duration": 9392,
+      "passRate": 100
+    },
+    {
+      "runId": "run-1771762229500",
+      "timestamp": "2026-02-22T12:10:29.500Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8416,
+      "passRate": 0
+    },
+    {
+      "runId": "run-1771762394130",
+      "timestamp": "2026-02-22T12:13:14.130Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8401,
+      "passRate": 0
+    },
+    {
+      "runId": "run-1771762938633",
+      "timestamp": "2026-02-22T12:22:18.633Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8489,
+      "passRate": 0
+    },
+    {
+      "runId": "run-1771763282237",
+      "timestamp": "2026-02-22T12:28:02.237Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8379,
+      "passRate": 0
+    },
+    {
+      "runId": "run-1771763413093",
+      "timestamp": "2026-02-22T12:30:13.093Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8496,
+      "passRate": 0
+    },
+    {
+      "runId": "run-1771763566139",
+      "timestamp": "2026-02-22T12:32:46.139Z",
+      "total": 2,
+      "passed": 0,
+      "failed": 2,
+      "skipped": 0,
+      "flaky": 2,
+      "slow": 0,
+      "duration": 8930,
       "passRate": 0
     }
   ],
